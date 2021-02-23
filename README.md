@@ -7,4 +7,4 @@ with 3 discretisation schemes:
         -Upwind Differencing 
         -Power-Law Differencing 
         
-The resulting system of equations is solved by TDMA. 
+The resultant system of equations is solved by TDMA. 
