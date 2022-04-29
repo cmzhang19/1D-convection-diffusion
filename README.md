@@ -1,6 +1,6 @@
 # 1D-convection-diffusion
 
-This module implements FVM on the 1D steady state convection-diffusion equation
+A demo of FVM on the 1D steady state convection-diffusion equation
 with 3 discretisation schemes: 
     
         -Central Differencing 
